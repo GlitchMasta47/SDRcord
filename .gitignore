@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
